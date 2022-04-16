@@ -1,11 +1,3 @@
-#Load
-Download code and open in IntelliJ IDE
-
-#Run 
-
-Run BubbleSort.java file 
-
-
-#Unit test
-
-Run UnitTest.java file
+1)Download code and open in IntelliJ IDE
+2)Run BubbleSort.java file 
+3)Run UnitTest.java file
