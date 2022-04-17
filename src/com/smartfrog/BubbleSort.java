@@ -6,7 +6,7 @@ public class BubbleSort {
     {
         int array[] = { 64, 34, 25, 12, 22, 11, 90 };
         bubbleSort(array);
-        System.out.println("Sorted Array is given below :");
+        System.out.println("Sorted Array is given below : ");
         print(array);
     }
 
